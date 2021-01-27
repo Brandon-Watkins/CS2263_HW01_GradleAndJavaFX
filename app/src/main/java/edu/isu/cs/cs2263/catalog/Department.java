@@ -1,3 +1,10 @@
+/**
+ * Simple Department class used to associate with the courses in the catalog.
+ *
+ * @author Brandon Watkins
+ * @version 1.0.0
+ * @since 2021-01-20
+ */
 package edu.isu.cs.cs2263.catalog;
 
 public class Department {
