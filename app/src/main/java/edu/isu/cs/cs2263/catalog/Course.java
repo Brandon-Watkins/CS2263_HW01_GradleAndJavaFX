@@ -2,7 +2,7 @@
  * Course class, utilizing a static array of departments, as per my assignment instructions.
  *
  * @author Brandon Watkins
- * @version 2.0.0
+ * @version 1.0.0
  * @since 2021-01-20
  */
 package edu.isu.cs.cs2263.catalog;
